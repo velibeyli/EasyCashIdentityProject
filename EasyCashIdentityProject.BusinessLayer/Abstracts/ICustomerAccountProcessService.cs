@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EasyCashIdentityProject.DataAccessLayer.Interfaces
+namespace EasyCashIdentityProject.BusinessLayer.Abstracts
 {
-    public interface ICustomerAccountDAL : IGenericDAL<CustomerAccount>
+    public interface ICustomerAccountProcessService : IGenericService<CustomerAccountProcess>
     {
     }
 }

@@ -1,5 +1,5 @@
 ﻿using EasyCashIdentityProject.DataAccessLayer.Db;
-using EasyCashIdentityProject.DataAccessLayer.Interfaces;
+using EasyCashIdentityProject.DataAccessLayer.Abstacts;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EasyCashIdentityProject.DataAccessLayer.Interfaces
+namespace EasyCashIdentityProject.DataAccessLayer.Abstacts
 {
     public interface ICustomerAccountProcessDAL : IGenericDAL<CustomerAccountProcess>
     {
